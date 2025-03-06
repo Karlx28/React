@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46758085-D471-48F9-850A-DDAABB0E7046}|Temporal\\Temporal.csproj|c:\\users\\kxrmm\\downloads\\react-progra\\notasproyecto\\temporal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46758085-D471-48F9-850A-DDAABB0E7046}|Temporal\\Temporal.csproj|solutionrelative:temporal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D206166B-6F15-43D6-9149-5BDDA1FD210B}|WebApi\\WebApi.csproj|c:\\users\\kxrmm\\downloads\\react-progra\\notasproyecto\\webapi\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D206166B-6F15-43D6-9149-5BDDA1FD210B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41B7DA92-8D28-4A4D-B50E-992F7763DFC2}|reactBackend\\reactBackend.csproj|c:\\users\\kxrmm\\downloads\\react-progra\\notasproyecto\\reactbackend\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\WebApi\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\WebApi\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:25:23.074Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -51,19 +64,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\Temporal\\Program.cs",
-              "RelativeDocumentMoniker": "Temporal\\Program.cs",
-              "ToolTip": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\Temporal\\Program.cs",
-              "RelativeToolTip": "Temporal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:33:29.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AlumnoDAO.cs",
               "DocumentMoniker": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\reactBackend\\Repository\\AlumnoDAO.cs",
@@ -72,8 +72,7 @@
               "RelativeToolTip": "reactBackend\\Repository\\AlumnoDAO.cs",
               "ViewState": "AgIAAGkAAAAAAAAAAAAowHoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:27:13.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T20:27:13.861Z"
             },
             {
               "$type": "Document",

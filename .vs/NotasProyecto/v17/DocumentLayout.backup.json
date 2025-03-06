@@ -30,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,7 +40,7 @@
               "RelativeDocumentMoniker": "Temporal\\Program.cs",
               "ToolTip": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\Temporal\\Program.cs",
               "RelativeToolTip": "Temporal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T20:33:29.701Z",
               "EditorCaption": ""
@@ -57,7 +53,7 @@
               "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDAO.cs",
               "ToolTip": "C:\\Users\\kxrmm\\Downloads\\React-Progra\\NotasProyecto\\reactBackend\\Repository\\AlumnoDAO.cs",
               "RelativeToolTip": "reactBackend\\Repository\\AlumnoDAO.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwBsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T20:27:13.861Z",
               "EditorCaption": ""
@@ -72,8 +68,7 @@
               "RelativeToolTip": "reactBackend\\Context\\RegistroAlumnoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T19:59:50.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T19:59:50.251Z"
             },
             {
               "$type": "Document",

@@ -51,3 +51,13 @@ Console.WriteLine(resultado2);
 var result = alumnoDAO.deleteAlumno(1);
 Console.WriteLine("Se elimino " + result);
 #endregion
+
+#region alumnoAsignatura desde un JOIN 
+var alumAsig = alumnoDAO.SelectAlumAsig();
+
+foreach (AlumnoAsignatura alumAsig2 in alumAsig)
+{
+    Console.WriteLine(alumAsig2.nombreAlumno + " Asignatura que este cursa " + alumAsig2.nombreAsignatura);
+
+}
+#endregion
